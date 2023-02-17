@@ -1,0 +1,32 @@
+_repo: Your-vote-and-how-to-use-it_69959
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Catt, Mrs. Carrie Chapman
+    gutenberg_agent_id: '55514'
+    url: http://www.gutenberg.org/2009/agents/55514
+creator:
+  author:
+    agent_name: Brown, Mrs. Raymond
+    gutenberg_agent_id: '55513'
+    url: http://www.gutenberg.org/2009/agents/55513
+description: ''
+gutenberg_issued: '2023-02-05'
+identifiers:
+  gutenberg: '69959'
+language: en
+pgterms:marc904: https://archive.org/details/yourvotehowtouse00brow/page/n7/mode/2up
+pgterms:marc905: 20220220224215brown
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bHarper & Brothers Publishers, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Your vote and how to use it
+url: http://www.gutenberg.org/ebooks/69959
