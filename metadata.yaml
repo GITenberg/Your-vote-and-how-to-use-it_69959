@@ -5,12 +5,17 @@ contributor:
     agent_name: Catt, Mrs. Carrie Chapman
     gutenberg_agent_id: '55514'
     url: http://www.gutenberg.org/2009/agents/55514
+covers:
+- cover_type: archival
+  image_path: 69959-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, Mrs. Raymond
     gutenberg_agent_id: '55513'
     url: http://www.gutenberg.org/2009/agents/55513
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69959#Your-vote-and-how-to-use-it
 gutenberg_issued: '2023-02-05'
 identifiers:
   gutenberg: '69959'
